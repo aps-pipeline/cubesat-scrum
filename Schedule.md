@@ -27,6 +27,7 @@ The workshop involves three sprints of three workdays (i.e. 8 minute blocks). Ea
 > Name tags "the agile way" (blue painter's tape and sharpie)
 > Assign teams randomly
 > Request that each team appoints a scrum master
+> Agile scrum video: https://www.youtube.com/watch?v=oyVksFviJVE
 
 00:10 - What is agile?
 > Introduction on agile methodology
