@@ -7,5 +7,8 @@ This repository contains CubeSat Scrum objectives, lesson plan, and instructor n
 ## Materials templates
 The templates for the CubeSat Scrum workshop are available at [https://cubesatscrum.com/](https://cubesatscrum.com/) or directly on [DropBox](https://www.dropbox.com/sh/89eganxbdqvd47i/AAAYeD80DNVO_c1XdfdsbYWxa?dl=0).
 
+## Suggested schedule
+This activity will take up to 4 hours to complete. A [suggested schedule](Schedule.md) is available.
+
 # License CC BY-SA 4.0
 Unless otherwise noted, the contents of this repository are licensed under the Creative Commons Attribution - Share Alike 4.0 International license. For details, see LICENSE.md.
