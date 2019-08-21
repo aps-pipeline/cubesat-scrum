@@ -1,5 +1,5 @@
 # CubeSat Scrum
-This repository contains CubeSat Scrum objectives, lesson plan, and instructor notes
+This repository contains CubeSat Scrum objectives, lesson plan, and instructor notes.
 
 ## Learning objectives
 - Explain what agile management is and how it differs from waterfall
@@ -12,10 +12,15 @@ The [paper templates](STEM%20Paper%20CubeSat%20Templates%20Jan%202018.pdf) are a
 
 Additional teaching materials for the CubeSat Scrum workshop, including K-12 lesson plans developed by students at Old Dominion University, are available at [https://cubesatscrum.com/](https://cubesatscrum.com/) or directly on [DropBox](https://www.dropbox.com/sh/89eganxbdqvd47i/AAAYeD80DNVO_c1XdfdsbYWxa?dl=0).
 
-## Suggested schedule
-This activity will take up to 4 hours to complete. A [suggested schedule](Schedule.md) is available. You may also want to consider the different [roles](Roles.md) that all participants in the activity will be asked to play.
+## Schedule and roles
+This activity will take up to 4 hours to complete. A [suggested schedule](Schedule.md) is available. You may also want to consider the different [roles](Roles.md) that all participants in the activity will be asked to play. You will need at least 
 
-Although it is possible (if not recommended) to speed up this activity, this is not recommended in a first attempt at implementing the activity. The highest priority components are the iterative nature (more than 1 sprint), the use of a kanban board (and time to facilitate this), and the retrospection during the activity.
+Although it is possible (if not recommended) to speed up this activity, this is not recommended in a first attempt at implementing the activity. The highest priority components are the iterative nature (more than 1 sprint), the use of a kanban board (and time to facilitate this), and the retrospection during the activity. The competitive nature makes the activity more valuable with 2 smaller teams than 1 larger team, if 
+
+## Presentations
+Several presentations are available about this work:
+- [APS April 2019 (pdf)](APS%20April%202019%20-%20Agile%20Project%20Management%20in%20Scalable%20Team-Based%20Senior%20Capstone%20Design%20Experiences.pdf): contributed presentation about agile management at William & Mary,
+- [AAPT Summer Meeting 2019 (pdf)](Presentations/AAPT%20Summer%20Meeting%202019%20-%20Agile%20Project%20Management%20and%20Business%20Skills%20for%20Innovation.pdf): presentation in support of this activity offered to physics educators.
 
 ## Feedback?
 If you implement this activity at your institution, please let us know about your experiences. If you have any questions, feel free to contact us. If you wish support or coaching, we may be able to work this out as well.
