@@ -6,7 +6,7 @@ UNLESS OTHERWISE NOTED, THE CONTENTS OF THIS REPOSITORY ARE LICENSED UNDER THE C
 
 ## License Summary of CC-BY-NC-SA 4.0 International
 
-*This section is a human-readable summary of (and not a substitute for) the full license included below.*
+*This section is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).*
 
 ### You are free to:
 
