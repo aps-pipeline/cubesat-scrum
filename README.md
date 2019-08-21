@@ -8,7 +8,7 @@ This repository contains CubeSat Scrum objectives, lesson plan, and instructor n
 - Experience empowerment that students feel when using agile management
 
 ## Materials
-The [paper templates](templates.pdf) are available in this repository. For each team print a copy of these templates on card stock (80 lb works well, heavier becomes difficult to fold).
+The [paper templates](STEM Paper CubeSat Templates Jan 2018.pdf) are available in this repository. For each team print a copy of these templates on card stock (80 lb works well, heavier becomes difficult to fold).
 
 Facilitator materials:
 - Classroom count-down clock (e.g. on [Amazon](https://www.amazon.com/gp/product/B000J5OFW0/))
