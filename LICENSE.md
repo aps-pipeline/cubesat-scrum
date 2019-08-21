@@ -2,8 +2,6 @@
 
 UNLESS OTHERWISE NOTED, THE CONTENTS OF THIS REPOSITORY ARE LICENSED UNDER THE CREATIVE COMMONS ATTRIBUTION - NON COMMERCIAL - SHARE ALIKE 4.0 INTERNATIONAL LICENSE
 
-![https://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
-
 ## License Summary of CC-BY-NC-SA 4.0 International
 
 *This section is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).*
@@ -17,9 +15,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Under the following terms:
 
-* ![CC-BY](https://creativecommons.org/images/deed/by.png) **Attribution** - You must give **appropriate credit**, provide **a link to the license**, and **indicate if changes were made**. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* ![CC-NC](https://creativecommons.org/images/deed/nc.png) **NonCommercial** - You may not use the material for **commercial purposes**.
-* ![CC-SA](https://creativecommons.org/images/deed/sa.png) **ShareAlike** - If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.
+* **Attribution** - You must give **appropriate credit**, provide **a link to the license**, and **indicate if changes were made**. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* **NonCommercial** - You may not use the material for **commercial purposes**.
+* **ShareAlike** - If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.
 
 **No additional restrictions** - You may not apply legal terms or **technological measures** that legally restrict others from doing anything the license permits.
 
