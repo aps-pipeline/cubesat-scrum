@@ -3,8 +3,8 @@ This repository contains CubeSat Scrum objectives, lesson plan, and instructor n
 
 ## Learning objectives
 - Explain what agile management is and how it differs from waterfall
-- Understand how agile management can be used in physics student projects
-- Explore a 3-4 hour learning activity for you to introduce agile management
+- Understand how agile management can be used in student projects
+- Explore a 3-4 hour activity for you to introduce agile management
 - Experience empowerment that students feel when using agile management
 
 ## Required materials
