@@ -24,24 +24,27 @@ The workshop involves three sprints of three workdays (i.e. 8 minute blocks). Ea
 ## Timeline
 
 00:00 - Introductions, separating in teams
-> Name tags "the agile way" (blue painter's tape and sharpie)
-> Assign teams randomly
-> Request that each team appoints a scrum master
-> Agile scrum video: https://www.youtube.com/watch?v=oyVksFviJVE
+> - Name tags "the agile way" (blue painter's tape and sharpie)
+> - Assign teams randomly
+> - Request that each team appoints a scrum master
+> - Agile scrum video: https://www.youtube.com/watch?v=oyVksFviJVE
 
 00:10 - What is agile?
-> Introduction on agile methodology
-> Agile manifesto
-> Development cycle and recurring milestones
+> - Introduction on agile methodology
+> - Agile manifesto
+> - Development cycle and recurring milestones
 
 00:20 - The mission!
-> Presentation on the CubeSat Mission Objectives (see materials)
+> - Presentation on the CubeSat Mission Objectives (see materials)
 
 00:40-01:25 - Sprint 1
+
 01:25-02:10 - Sprint 2
+
 02:10:02:55 - Sprint 3
 
 02:55-03:15 - Break
 
 03:15 - Chair flying (10 minutes per team)
+
 03:45 - Close-out
