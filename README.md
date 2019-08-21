@@ -1,5 +1,5 @@
-# CubeSat Scrum
-This repository contains CubeSat Scrum objectives, lesson plan, and instructor notes.
+# CubeSat Scrum (an APS PIPELINE product)
+This repository contains CubeSat Scrum objectives, lesson plan, and instructor notes. These materials were developed with support of the [APS PIPELINE project](https://www.aps.org/programs/education/innovation/pipeline/)
 
 ## Learning objectives
 - Explain what agile management is and how it differs from waterfall
@@ -27,3 +27,6 @@ If you implement this activity at your institution, please let us know about you
 
 # License CC BY-NC-SA 4.0
 Unless otherwise noted, the contents of this repository are licensed under the Creative Commons Attribution - Non Commercial - Share Alike 4.0 International license. For details, refer to the [license](LICENSE.md).
+
+# Acknowledgment and disclaimer
+This material is based upon work supported by the National Science Foundation under Grant No. DUE-1625872. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
