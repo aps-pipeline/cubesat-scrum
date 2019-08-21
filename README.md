@@ -1,4 +1,4 @@
-# CubeSat Scrum (an APS PIPELINE product)
+# CubeSat Scrum (by APS PIPELINE)
 This repository contains CubeSat Scrum objectives, lesson plan, and instructor notes. These materials were developed with support of the [APS PIPELINE project](https://www.aps.org/programs/education/innovation/pipeline/)
 
 ## Learning objectives
