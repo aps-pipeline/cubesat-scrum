@@ -19,7 +19,7 @@ Although it is possible (if not recommended) to speed up this activity, this is 
 
 ## Presentations
 Several presentations are available about this work:
-- [APS April 2019 (pdf)](APS%20April%202019%20-%20Agile%20Project%20Management%20in%20Scalable%20Team-Based%20Senior%20Capstone%20Design%20Experiences.pdf): contributed presentation about agile management at William & Mary,
+- [APS April 2019 (pdf)](Presentations/APS%20April%202019%20-%20Agile%20Project%20Management%20in%20Scalable%20Team-Based%20Senior%20Capstone%20Design%20Experiences.pdf): contributed presentation about agile management at William & Mary,
 - [AAPT Summer Meeting 2019 (pdf)](Presentations/AAPT%20Summer%20Meeting%202019%20-%20Agile%20Project%20Management%20and%20Business%20Skills%20for%20Innovation.pdf): presentation in support of this activity offered to physics educators.
 
 ## Feedback?
