@@ -15,9 +15,9 @@
 - 1 x-acto knife to cut out internal parts (for older groups only).
 - 4 kabob sticks for puncturing paper in order to cut out internal parts and/or additional structural support of the frame.
 - A kanban board, accomplished in a number of ways:
-> - a white boards with three columns "todo, doing, done" (but be careful when using sharpies; note that writing tasks directly on the white board should be discouraged)
-> - a flip chart page taped to the wall
-> - a grid made with masking tape directly on the wall
+  - a white boards with three columns "todo, doing, done" (but be careful when using sharpies; note that writing tasks directly on the white board should be discouraged)
+  - a flip chart page taped to the wall
+  - a grid made with masking tape directly on the wall
 - Multiple stacks of post-its (3" x 6" notecard size is better than the 3" x 3" squares).
 - Several black and/or colored sharpies and/or white board markers.
 
