@@ -15,7 +15,7 @@ Additional teaching materials for the CubeSat Scrum workshop, including K-12 les
 ## Schedule and roles
 This activity will take up to 4 hours to complete. A [suggested schedule](Schedule.md) is available. You may also want to consider the different [roles](Roles.md) that all participants in the activity will be asked to play.
 
-Although it is possible (if not recommended) to speed up this activity, this is not recommended in a first attempt at implementing the activity. The highest priority components are the iterative nature (more than 1 sprint), the use of a kanban board (and time to facilitate this), and the retrospection during the activity. The competitive nature makes the activity more valuable with 2 smaller teams than 1 larger team, if 
+Although it is possible (if not recommended) to speed up this activity, this is not recommended in a first attempt at implementing the activity. The highest priority components are the iterative nature (more than 1 sprint), the use of a kanban board (and time to facilitate this), and the retrospection during the activity. The competitive nature makes the activity more valuable with 2 smaller teams rather than 1 larger team.
 
 ## Presentations
 Several presentations are available about this work:
