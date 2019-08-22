@@ -26,13 +26,13 @@ Several presentations are available about this work:
 ## Feedback?
 If you implement this activity at your institution, please let us know about your experiences. If you have any questions, feel free to contact us. If you wish support or coaching, we may be able to work this out as well.
 
-# License CC BY-NC-SA 4.0
+# License ![https://creativecommons.org/licenses/by-nc-sa/4.0/](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 Unless otherwise noted, the contents of this repository are licensed under the Creative Commons Attribution - Non Commercial - Share Alike 4.0 International license. For details, refer to the [license](LICENSE.md).
 
 ## Contributors
 - CubeSat Scrum templates on [https://cubesatscrum.com/](https://cubesatscrum.com/) developed by [Thomas Friend](https://www.linkedin.com/in/thomasfriend/) and [Adam Beck](https://www.linkedin.com/in/adambeck/) at [Berkana Enterprise Consulting](https://www.beccommunity.org/) (CC BY-NC-SA 4.0)
 - Instructor notes and presentations by Wouter Deconinck (CC BY-NC-SA 4.0, supported in part by the NSF under Grant No. DUE-1625872)
-- Limited graphics in presentations by [Scaled Agile Inc.](http://www.scaledagile.com/) (fair use exemption for limited educational non non-profit use)
+- Limited graphics in presentations by [Scaled Agile Inc.](http://www.scaledagile.com/) (fair use exemption for limited educational non-profit use)
 
 # Acknowledgment and disclaimer
 This material is based upon work supported in part by the National Science Foundation under Grant No. DUE-1625872. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
